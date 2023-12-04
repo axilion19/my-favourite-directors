@@ -1,0 +1,12 @@
+.yukseklik{
+    width: 400px;
+    height: 500px;
+    object-fit: cover;
+}
+
+.poster{
+    width: 500px;
+    height: 668px;
+    object-fit: fill;
+}
+
